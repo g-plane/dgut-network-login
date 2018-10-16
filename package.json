@@ -1,0 +1,16 @@
+{
+  "name": "dgut-network-login",
+  "description": "Login your network automatically!",
+  "author": "Pig Fang <g-plane@hotmail.com>",
+  "version": "0.1.0",
+  "repository": "g-plane/dgut-network-login",
+  "private": true,
+  "scripts": {
+    "test": "eslint . -f=beauty"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-gplane": "^3.1.0",
+    "eslint-formatter-beauty": "^3.0.0"
+  }
+}

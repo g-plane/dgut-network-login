@@ -1,0 +1,4 @@
+extends: gplane
+
+env:
+  browser: true
