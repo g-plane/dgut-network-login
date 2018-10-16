@@ -4,6 +4,10 @@
 // @version      0.1.0
 // @description  自动登录 DGUT 的校园网。
 // @author       Pig Fang <g-plane@hotmail.com>
+// @license      MIT
+// @copyright    2018-present, Pig Fang
+// @create       2018-10-16
+// @lastmodified 2018-10-16
 // @supportURL   https://github.com/g-plane/dgut-network-login
 // @match        *://172.31.252.71/a*.htm*
 // @grant        none
