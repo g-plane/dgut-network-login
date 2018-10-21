@@ -1,0 +1,8 @@
+pool:
+  vmImage: 'Ubuntu 16.04'
+
+steps:
+- script: |
+    yarn
+    yarn test
+  displayName: 'Run tests'
