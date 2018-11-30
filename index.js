@@ -23,7 +23,7 @@
   const elUsername = document.querySelector('#username')
   /** @type {HTMLInputElement} */
   const elPassword = document.querySelector('#pwd')
-  /** @type {HTMLInputElement} */
+  /** @type {HTMLAnchorElement} */
   const elSubmit = document.querySelector('#loginLink')
 
   const username = localStorage.getItem(STORAGE_KEY_USERNAME)
