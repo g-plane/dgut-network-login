@@ -7,7 +7,7 @@
 // @license      MIT
 // @copyright    2018-present, Pig Fang
 // @create       2018-10-16
-// @lastmodified 2018-10-16
+// @lastmodified 2018-11-30
 // @supportURL   https://github.com/g-plane/dgut-network-login
 // @match        *://172.31.252.91/eportal/index.jsp*
 // @grant        none
