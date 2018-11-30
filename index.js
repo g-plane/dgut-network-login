@@ -9,7 +9,7 @@
 // @create       2018-10-16
 // @lastmodified 2018-10-16
 // @supportURL   https://github.com/g-plane/dgut-network-login
-// @match        *://172.31.252.71/a*.htm*
+// @match        *://172.31.252.91/eportal/index.jsp*
 // @grant        none
 // ==/UserScript==
 
@@ -20,11 +20,11 @@
   const STORAGE_KEY_PASSWORD = 'autologinp'
 
   /** @type {HTMLInputElement} */
-  const elUsername = document.querySelectorAll('[name=DDDDD]')[1]
+  const elUsername = document.querySelector('#username')
   /** @type {HTMLInputElement} */
-  const elPassword = document.querySelectorAll('[name=upass]')[1]
+  const elPassword = document.querySelector('#pwd')
   /** @type {HTMLInputElement} */
-  const elSubmit = document.querySelectorAll('[name="0MKKey"]')[1]
+  const elSubmit = document.querySelector('#loginLink')
 
   const username = localStorage.getItem(STORAGE_KEY_USERNAME)
   const password = localStorage.getItem(STORAGE_KEY_PASSWORD)
