@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DGUT 校园网自动登录
 // @namespace    https://gplane.win/
-// @version      0.1.0
+// @version      0.2.0
 // @description  自动登录 DGUT 的校园网。
 // @author       Pig Fang <g-plane@hotmail.com>
 // @license      MIT
